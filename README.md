@@ -4,6 +4,7 @@
 This dashboard provides key insights into Vrindan Store's annual performance, covering sales trends, order distribution, and customer demographics.
 
 ## 🔍 Key Insights:
+
 - 📈 **Sales vs Orders** – Monthly sales and order trends.
 - 👩‍💼 **Sales by Gender** – Women contribute **64%** of total sales.
 - 🚚 **Order Status** – Majority of orders are successfully delivered, with minimal cancellations/refunds.
@@ -12,7 +13,8 @@ This dashboard provides key insights into Vrindan Store's annual performance, co
 - 🛒 **Orders by Channel** – Amazon dominates with **11,016** orders, followed by Flipkart and Myntra.
 
 ## 🛠 Tools & Technologies Used:
-- **📊 Data Visualization:** Excel / Power BI / Tableau
+
+- **📊 Data Visualization:** Excel 
 - **📁 Data Source:** Internal Sales Data
 - **📑 Report Type:** Annual Sales Summary
 
